@@ -1,0 +1,6 @@
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.pdb

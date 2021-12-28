@@ -1,0 +1,2 @@
+E:\Visual Studio Çalışmaları\AspNetFramework\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio Çalışmaları\AspNetFramework\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache

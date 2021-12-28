@@ -1,0 +1,53 @@
+﻿@model EntityLayer.Concrete.Category
+
+@{
+    ViewBag.Title = "AddCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddCategory</title>
+</head>
+<body>
+    <h2>AddCategory</h2>
+
+    <br />
+
+    @using (Html.BeginForm("AddCategory", "Category", FormMethod.Post))
+    {
+        <div class="form-group">
+            @Html.Label("Kategori Adı")
+            @Html.TextBoxFor(x => x.CategoryName)
+            @Html.ValidationMessageFor(x=>x.CategoryName)
+            <br /><br />
+            @Html.Label("Açıklamayı Yazınız")
+            @Html.TextBoxFor(x => x.CategoryDescription)
+            @Html.ValidationMessageFor(x=>x.CategoryDescription)
+            <br /><br />
+            <button class="btn btn-info">Kaydet</button>
+        </div>
+    }
+
+
+
+
+
+
+
+
+    @*<form class="form-group" method="post">
+            <input type="text" name="CategoryName" placeholder="Kategori Adı" class="form-control" />
+            <br />
+            <input type="text" name="CategoryDescription" placeholder="Açıklama Giriniz" class="form-control" />
+            <br />
+            <button class="btn btn-primary">Ekle</button>
+        </form>*@
+
+</body>
+</html>
