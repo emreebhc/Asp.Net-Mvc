@@ -4,3 +4,17 @@ E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\Busines
 E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
 E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.dll
 E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityLayer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityLayer.pdb
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityLayer.dll.config
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\FluentValidation.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\BusinessLayer\bin\Debug\FluentValidation.xml

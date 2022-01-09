@@ -1,0 +1,12 @@
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityLayer.dll.config
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityLayer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityLayer.pdb
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityFramework.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityFramework.xml
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\obj\Release\EntityLayer.dll
+E:\Visual Studio Çalışmaları\AspNetFramework\EntityLayer\obj\Release\EntityLayer.pdb
