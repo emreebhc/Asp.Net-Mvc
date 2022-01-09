@@ -14,6 +14,8 @@ namespace AspNetUygulama.Controllers
     public class AdminCategoryController : Controller
     {
         CategoryManager cm = new CategoryManager(new EFCategoryDal());
+
+        [Authorize(Roles ="B")]
         public ActionResult Index()
         {
             var CategoryValues = cm.GetList();

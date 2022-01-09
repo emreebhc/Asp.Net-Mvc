@@ -14,6 +14,8 @@ namespace AspNetUygulama.Controllers
     {
         // GET: Category
         CategoryManager cm = new CategoryManager(new EFCategoryDal());
+
+      
         public ActionResult Index()
         {
             return View();

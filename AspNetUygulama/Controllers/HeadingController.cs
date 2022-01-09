@@ -21,6 +21,14 @@ namespace AspNetUygulama.Controllers
             return View(HeadingValues);
         }
 
+        public ActionResult HeadingReport()
+        {
+            var HeadingValues = hm.GetList();
+            return View(HeadingValues);
+        }
+
+
+
         [HttpGet]
         public ActionResult AddHeading()
         {
@@ -75,6 +83,7 @@ namespace AspNetUygulama.Controllers
         public ActionResult DeleteHeading(int id)
         {
             var HeadingValue = hm.GetByID(id);
+            HeadingValue.HeadingStatus = false;
             hm.HeadingDelete(HeadingValue);
             return RedirectToAction("Index");
         }

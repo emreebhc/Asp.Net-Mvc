@@ -92,3 +92,7 @@ E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\EntityFramewo
 E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\EntityFramework.SqlServer.xml
 E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\FluentValidation.dll
 E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\FluentValidation.xml
+E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\PagedList.dll
+E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\PagedList.Mvc.dll
+E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\PagedList.xml
+E:\Visual Studio Çalışmaları\AspNetUygulama\AspNetUygulama\bin\PagedList.Mvc.xml
